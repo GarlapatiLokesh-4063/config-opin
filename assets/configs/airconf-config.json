@@ -1,0 +1,11 @@
+{
+    "server": "https://github.com",
+    "clientId": "Ov23lixEbZ3xVPjIF99A",
+    "clientSecret": "afefb4f9ecd236dc027388a08d6a437e34683346",
+    "configFilename": "airconf-config.digit.json",
+    "config": {
+        "filePath": "assets/configs/airconf-config.digit.json",
+        "orgId": "GarlapatiLokesh-4063",
+        "projectId": "config-opin"
+    }
+}
